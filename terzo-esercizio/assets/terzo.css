@@ -1,0 +1,69 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#master {
+    margin: 0 auto;
+    width: 720px;
+}
+img {
+    border-radius: 20px;
+}
+.first {color: aqua;}
+.child_of_first {
+    color: blue;
+    font-weight: bolder;
+}
+figcaption {
+    color: grey;
+    text-align: center;
+}
+section {
+    align-content: left;
+}
+h3 {
+    margin-right: 550px;
+    color: orange;
+}
+#link1 {
+    margin-right: 350px;
+}
+h2 {
+    margin-right: 550px;
+}
+header {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+/*+++++++++++++++++++++++++ DIV +++++++++++++++++++++++++++++++*/
+
+.simply {
+    margin: 0 100px;
+    border-top: 0.2em solid yellow;
+    border-color: yellow;
+    background-color: rgb(255, 255, 199);
+    text-align: center;
+}
+.chil_of_ingredients {
+    margin-right: 550px;
+    font-weight: bold;
+}
+.topping {
+    margin-right: 550px;
+    font-weight: bold;
+}
+.method {
+    margin-right: 600px;
+    font-weight: bold;
+}
+li {
+    padding-top: 30px;
+}
+.interno {
+    padding-left: 0px;
+    inline-size: 1500px;
+}
+footer {
+     margin-left: 35%;
+}

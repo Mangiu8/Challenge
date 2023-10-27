@@ -1,0 +1,82 @@
+/* IMPOSTAZIONI GENERALI */
+
+body {
+    background-image: url(/quarto-esercizio/assets/html/img/sfondo.png);
+    height: auto;
+    width: auto;
+    margin: 0px 40%;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+img {
+    width: 250px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 30px;
+}
+
+/* HEADER */
+
+header {
+    width: 400px;
+    height: 300px;
+    margin-top: 30px;
+    background-image: linear-gradient(#0096C2,#076A86);
+    box-shadow: 3px 3px grey;
+    margin-bottom: 20px;
+    color: white;
+}
+.primo {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.first_li {
+    margin-bottom: 20px;
+}
+.second_li {
+    margin-bottom: 20px;
+}
+.third_li {
+    margin-bottom: 20px;
+}
+
+/* MAIN */
+
+main {
+    background-image:linear-gradient(white, rgb(194, 194, 194));
+    box-shadow: 3px 3px grey;
+    font-size: 15px ;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-weight: bolder ;
+    font-size: 30px;
+}
+.mario_p {
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: grey;
+}
+.testo_p {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+strong {
+    color: fuchsia;
+}
+.p_divisorio {
+    margin-bottom: 20px;
+}
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
+footer {
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(9,105,124,1) 50%);
+}
